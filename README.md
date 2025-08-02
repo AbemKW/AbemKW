@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AKSentry**
 
-- 🌱 I’m currently learning **.NET MAUI**
+- 🌱 I’m currently learning **Reinforcement learning**
 
 - 📫 How to reach me **Abem.Woldesenbet@trojans.dsu.edu**
 
